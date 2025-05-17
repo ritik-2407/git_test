@@ -1,3 +1,3 @@
 this is another change made in a file
-
 and probably this too
+this is line third
